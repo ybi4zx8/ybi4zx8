@@ -2,7 +2,7 @@
 
 **`Aluna do Alura`**
 
-Me chamo Bianca Lameze Barbosa, tenho 16 anos e sou de São Paulo - SP. Estou na 2ª série do ensino médio na EE João Evangelista Costa Professor. Também estou cursando Administração na Etec Getúlio Vargas. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Bianca Lameze Barbosa, tenho 16 anos e sou de São Paulo - SP. Estou na 2ª série do ensino médio na EE João Evangelista Costa Professor. Também estou cursando Administração na Etec Getúlio Vargas. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Bianca Lameze](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
